@@ -69,7 +69,7 @@
 
 <br/>
 
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Read my articles
+# 📖 Read my articles
 <!-- BLOG:START -->
 - [Operating Systems: Three Easy Pieces [Concurrency Ch.1: Concurrency and Threads]](https://3omar.hashnode.dev/operating-systems-three-easy-pieces-concurrency-ch1-concurrency-and-threads)
 - [Operating Systems: Three Easy Pieces [Concurrency Ch.3: Locks]](https://3omar.hashnode.dev/operating-systems-three-easy-pieces-concurrency-ch3-locks) 
