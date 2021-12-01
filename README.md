@@ -77,7 +77,10 @@
 - [Operating Systems: Three Easy Pieces [Concurrency Ch.5: Condition Variables]](https://3omar.hashnode.dev/operating-systems-three-easy-pieces-concurrency-ch5-condition-variables) 
 - [Operating Systems: Three Easy Pieces [Concurrency Ch.6: Semaphores]
 ](https://3omar.hashnode.dev/operating-systems-three-easy-pieces-concurrency-ch6-semaphores) 
-
+- [Operating Systems: Three Easy Pieces [Concurrency Ch.7: DeadLock]
+](https://3omar.hashnode.dev/operating-systems-three-easy-pieces-concurrency-ch7-deadlock) 
+- [Operating Systems: Three Easy Pieces [Concurrency Ch.8: Event-based Concurrency (Advanced)]
+](https://3omar.hashnode.dev/operating-systems-three-easy-pieces-concurrency-ch8-event-based-concurrency-advanced) 
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Oaik&show_icons=true&theme=radical"/>
