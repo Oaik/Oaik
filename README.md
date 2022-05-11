@@ -3,7 +3,7 @@
 <div align="">
 
   [![Repos Badge](https://badges.pufler.dev/repos/Oaik)](https://badges.pufler.dev)
-  <img width=0 src="https://komarev.com/ghpvc/?username=Oaik&label=Profile%20views&color=0e75b6&style=flat" alt="Omar" />
+  <img src="https://komarev.com/ghpvc/?username=Oaik&label=Profile%20views&color=0e75b6&style=flat" alt="Omar" />
 </div>
 
 <br/>
